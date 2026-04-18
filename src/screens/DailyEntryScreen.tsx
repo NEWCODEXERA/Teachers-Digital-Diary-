@@ -37,7 +37,7 @@ export const DailyEntry: React.FC<NavigationProps> = ({ onNavigate }) => {
            <div className="h-1 bg-accent w-full shadow-sm shadow-accent/20"></div>
            <div className="p-8 border-b flex justify-between items-center bg-slate-50/50">
               <div className="space-y-1">
-                <h3 className="text-lg font-bold text-text-main">Teacher's Daily Log (Subika Singha)</h3>
+                <h3 className="text-lg font-bold text-text-main">Subika Singha : A/T 571 No Chalitakandi LP School. Teachers Digital diary</h3>
                 <p className="text-xs text-text-light">Class activity and pedagogical reflections recorded here.</p>
               </div>
               <button 

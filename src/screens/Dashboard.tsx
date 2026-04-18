@@ -30,7 +30,7 @@ export const Dashboard: React.FC<NavigationProps> = ({ onNavigate }) => {
           animate={{ opacity: 1, x: 0 }}
           className="text-[1.875rem] font-bold text-[#0f172a]"
         >
-          Welcome back, Professor
+          Welcome, Subika Singha
         </motion.h2>
         <motion.p 
           initial={{ opacity: 0, x: -10 }}

@@ -26,10 +26,10 @@ export const Sidebar: React.FC<NavigationProps> = ({ onNavigate, currentScreen }
     <aside className="hidden md:flex flex-col h-screen w-[260px] bg-sidebar-bg py-8 flex-shrink-0 fixed left-0 top-0 z-50 text-white">
       <div className="px-6 mb-10 flex items-center gap-3">
         <div className="w-8 h-8 bg-accent rounded-md flex items-center justify-center font-bold text-white shrink-0">
-          A
+          S
         </div>
         <div className="overflow-hidden">
-          <h1 className="text-lg font-bold tracking-tight text-white leading-tight truncate">The Architect</h1>
+          <h1 className="text-lg font-bold tracking-tight text-white leading-tight truncate">Subika Singha</h1>
         </div>
       </div>
       

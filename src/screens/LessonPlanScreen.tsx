@@ -72,8 +72,8 @@ export const LessonPlan: React.FC<NavigationProps> = () => {
         <div className="md:col-span-4 bg-accent text-white rounded-xl p-10 flex flex-col justify-between overflow-hidden relative shadow-2xl">
           <div className="relative z-10">
             <School className="text-white/40 mb-6" size={48} />
-            <h3 className="text-2xl font-bold leading-tight mb-2 font-headline">571 No Chalitakandi LP School</h3>
-            <p className="text-blue-100/60 text-sm">Official Digital Repository of Teacher Subika Singha</p>
+            <h3 className="text-xl font-bold leading-tight mb-2 font-headline">Subika Singha : A/T 571 No Chalitakandi LP School. Teachers Digital diary</h3>
+            <p className="text-blue-100/60 text-sm italic">Certified Educator Workspace</p>
           </div>
           <div className="relative z-10 mt-8">
             <div className="text-[10px] uppercase tracking-widest opacity-40 mb-1">Academic Year</div>

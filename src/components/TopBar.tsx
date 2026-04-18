@@ -5,12 +5,12 @@ import { Screen, NavigationProps } from '../types';
 export const TopBar: React.FC<NavigationProps> = ({ onNavigate, currentScreen }) => {
   const getPageTitle = () => {
     switch (currentScreen) {
-      case 'dashboard': return 'Education Management';
-      case 'academic-calendar': return "Teacher's Diary";
-      case 'lesson-plan': return 'Subika Singha Diary';
-      case 'paper-folder': return 'Paper Folder Archive';
-      case 'daily-entry': return 'Digital Diary';
-      case 'view-data': return 'Data Analytics';
+      case 'dashboard': return 'Subika Singha : Workspace';
+      case 'academic-calendar': return "Teacher's Academic Diary";
+      case 'lesson-plan': return 'Lesson Planning Center';
+      case 'paper-folder': return 'Archival Records';
+      case 'daily-entry': return 'Digital Log Entry';
+      case 'view-data': return 'Record Analytics';
       default: return 'Teacher Workspace';
     }
   };

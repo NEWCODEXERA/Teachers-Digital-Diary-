@@ -28,7 +28,7 @@ export const PaperFolder: React.FC<NavigationProps> = () => {
         <div className="max-w-2xl">
           <h1 className="text-4xl font-extrabold tracking-tight text-text-main mb-2 font-headline">Paper Folder</h1>
           <p className="text-lg text-text-light font-sans leading-relaxed">
-            Access your archived blueprints, high-resolution physical scans, and long-term documentation curated for architectural and academic excellence.
+            Access archived documents, high-resolution physical scans, and long-term academic records curated by Subika Singha for institutional excellence.
           </p>
         </div>
         <a 

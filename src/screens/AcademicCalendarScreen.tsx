@@ -114,8 +114,8 @@ export const AcademicCalendar: React.FC<NavigationProps> = () => {
                     </div>
                     
                     <div className="text-center mb-12">
-                      <span className="inline-block px-4 py-1.5 bg-primary-container text-primary rounded-full text-[10px] font-bold uppercase tracking-widest mb-4">Official Schedule</span>
-                      <h3 className="text-3xl font-black text-slate-800 font-headline">Academic Year 2024-2025</h3>
+                      <span className="inline-block px-4 py-1.5 bg-primary-container text-accent rounded-full text-[10px] font-bold uppercase tracking-widest mb-4">Official Schedule</span>
+                      <h3 className="text-2xl font-black text-text-main font-headline leading-tight">Subika Singha : A/T 571 No Chalitakandi LP School. Teachers Digital diary</h3>
                     </div>
 
                     <div className="grid grid-cols-3 gap-8 mb-12">
